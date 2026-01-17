@@ -1,92 +1,112 @@
-# 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
-This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
+👨🏻‍💻 Customer Behavior Analytics – Portfolio Project
 
-This project is perfect for:
-- 📊 Data Analyst aspirants who want to build a strong **Portfolio Project** for interviews and LinkedIn
-- 📚 Anyone learning Python, SQL, and Power BI
-- 💼 Professionals preparing for interviews in Data Analytics, Data Science or Product Analytics roles
+This repository contains my Customer Behavior Analytics portfolio project, where I analyze customer data to understand purchasing patterns, customer segments, and key business drivers. The focus of this project is to demonstrate what I worked on, how I approached the analysis, and the tools I used, following an end-to-end analytics workflow.
 
-# **🎥 Watch this [YouTube video](https://www.youtube.com/watch?v=5PrZvPeUw60&list=PLAx-M6Di0SisFJ1rv5M_FRHUlGA5rtUf_&index=3) to implement the full project from scratch:**  
-[![Advanced Data Analysis Portfolio Project using Retail Customer Data](https://github.com/user-attachments/assets/abbb6371-a0b2-4bec-a304-7c7da98658b6)](https://www.youtube.com/watch?v=x8dfQkKTyP0&list=PLAx-M6Di0SisFJ1rv5M_FRHUlGA5rtUf_&index=2)
-🔗 *Link to Video:* [Watch on Youtube](https://www.youtube.com/watch?v=5PrZvPeUw60&list=PLAx-M6Di0SisFJ1rv5M_FRHUlGA5rtUf_&index=3)
+The project reflects how data analysts typically work in real business environments — from raw data handling to insight generation and reporting.
 
+🎯 Purpose of This Project
 
-## 📌 Project Overview
-The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
+The purpose of this project is to:
 
-✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
+      -Practice and demonstrate end-to-end data analytics skills
 
-✅ Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
+      -Apply Python, SQL, and Power BI on a realistic business dataset
 
-✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
+      -Analyze customer behavior and purchasing trends
 
-✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
+      -Build a strong portfolio project suitable for GitHub, LinkedIn, and interviews
 
-![Project Workflow](https://github.com/user-attachments/assets/8bbd5dc9-eb6c-40c1-8f19-c08b4107f654)
+📌 What I Did in This Project
+1️⃣ Data Cleaning & Preparation (Python)
 
-## 🛠️ How to Use This Project
+Loaded raw customer and transaction data
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
-   cd customer-trends-data-analysis-SQL-Python-PowerBI
-   ```
-2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
+Cleaned missing, duplicate, and inconsistent records
 
-    This file contains:
+Performed data transformations and feature creation
 
-      - Data Import
+Prepared structured datasets for analysis
 
-      - Data exploration
+Tools: Python (Pandas, NumPy)
 
-      - Data cleaning
+2️⃣ Exploratory Data Analysis (EDA)
 
-      - Connection to SQL Database
-  
-3. **Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server**
+Explored customer demographics and purchase behavior
 
-      - Create a database in SQL
+Analyzed order frequency, revenue distribution, and trends
 
-      - Run Python code to load data into SQL database
-  
-      - Open **customer_behavior_sql_queries.sql**
-  
-      - Answer Business Questions using SQL Queries 
-      
-4. **Connect the SQL Database to Power BI**
+Identified patterns, outliers, and correlations
 
-      - Open **customer_behavior_dashboard.pbix**
-   
-      - Create interactive dashboard in Power BI
-  
-6. **Create Project Report and Presentation**
+Tools: Python (Matplotlib, Seaborn)
 
-      - Create project report
-   
-      - Build presentation deck using Gamma AI
-  
-7. **Follow along with the YouTube video for full walkthrough. 👨‍💼**
+3️⃣ Business Analysis Using SQL
 
+Designed tables to simulate business transactions
 
-## 📜 License
+Wrote SQL queries to analyze:
 
-MIT — feel free to fork, star, and use in your portfolio.
+Customer segmentation
 
-## 👨‍💻 About the Author
-Hey, I’m Amlan Mohanty, a Data Analyst & Content Creator.
-I break down complex data topics into simple, practical content that actually helps you land a job.
+Repeat purchase and loyalty behavior
 
- ### 🚀 Stay Connected & Join my Data Community
-If you enjoyed this project and want to keep learning and growing as a data analyst, let’s stay in touch! I regularly share content around SQL, data analytics, portfolio projects, job tips, and more.
+Revenue contribution by customer groups
 
-🎥 YouTube: [Amlan Mohanty](https://www.youtube.com/@amlanmohanty1)
-- Beginner-friendly tutorials, real-world projects, job and career advice
+Answered business-focused analytical questions
 
-📺 Instagram: [datacareerschool](https://www.instagram.com/datacareerschool/)
-- Quick SQL tips, data memes, and behind-the-scenes content
+Tools: SQL
 
-💼 LinkedIn: [Amlan Mohanty](https://www.linkedin.com/in/amlanmohanty1/)
-- Let’s connect professionally and grow your data career
+4️⃣ Dashboard & Visualization (Power BI)
 
+Built an interactive Power BI dashboard
 
-## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
+Visualized key KPIs and customer segments
+
+Analyzed trends and performance metrics
+
+Enabled drill-down analysis for deeper insights
+
+Tools: Power BI
+
+5️⃣ Insights & Reporting
+
+Summarized analytical findings in a clear format
+
+Translated technical analysis into business insights
+
+Provided data-driven recommendations
+
+Created a project report and presentation
+
+📊 Key Areas of Analysis
+
+Customer segmentation
+
+Purchase frequency and behavior
+
+Loyalty and repeat customers
+
+Revenue drivers
+
+Business performance trends
+
+🛠️ Tools & Technologies Used
+
+Python – Data cleaning, transformation, EDA
+
+SQL – Business analysis and querying
+
+Power BI – Dashboarding and visualization
+
+Excel / CSV – Data storage
+
+🚀 Why This Project
+
+This project helps me demonstrate:
+
+Practical application of analytics tools
+
+Structured problem-solving approach
+
+Ability to analyze data with a business mindset
+
+End-to-end ownership of an analytics project
