@@ -1,4 +1,4 @@
-👨🏻‍💻 Customer Behavior Analytics – Portfolio Project
+##👨🏻‍💻 Customer Behavior Analytics – Portfolio Project
 
 This repository contains my Customer Behavior Analytics portfolio project, where I analyze customer data to understand purchasing patterns, customer segments, and key business drivers. The focus of this project is to demonstrate what I worked on, how I approached the analysis, and the tools I used, following an end-to-end analytics workflow.
 
@@ -16,8 +16,8 @@ The purpose of this project is to:
 
       -Build a strong portfolio project suitable for GitHub, LinkedIn, and interviews
 
-📌 What I Did in This Project
-1️⃣ Data Cleaning & Preparation (Python)
+#📌 What I Did in This Project
+#1️⃣ Data Cleaning & Preparation (Python)
 
 Loaded raw customer and transaction data
 
@@ -29,7 +29,7 @@ Prepared structured datasets for analysis
 
 Tools: Python (Pandas, NumPy)
 
-2️⃣ Exploratory Data Analysis (EDA)
+#2️⃣ Exploratory Data Analysis (EDA)
 
 Explored customer demographics and purchase behavior
 
@@ -39,7 +39,7 @@ Identified patterns, outliers, and correlations
 
 Tools: Python (Matplotlib, Seaborn)
 
-3️⃣ Business Analysis Using SQL
+#3️⃣ Business Analysis Using SQL
 
 Designed tables to simulate business transactions
 
@@ -55,7 +55,7 @@ Answered business-focused analytical questions
 
 Tools: SQL
 
-4️⃣ Dashboard & Visualization (Power BI)
+#4️⃣ Dashboard & Visualization (Power BI)
 
 Built an interactive Power BI dashboard
 
@@ -67,7 +67,7 @@ Enabled drill-down analysis for deeper insights
 
 Tools: Power BI
 
-5️⃣ Insights & Reporting
+#5️⃣ Insights & Reporting
 
 Summarized analytical findings in a clear format
 
@@ -77,7 +77,7 @@ Provided data-driven recommendations
 
 Created a project report and presentation
 
-📊 Key Areas of Analysis
+#📊 Key Areas of Analysis
 
 Customer segmentation
 
@@ -89,7 +89,7 @@ Revenue drivers
 
 Business performance trends
 
-🛠️ Tools & Technologies Used
+#🛠️ Tools & Technologies Used
 
 Python – Data cleaning, transformation, EDA
 
@@ -99,7 +99,7 @@ Power BI – Dashboarding and visualization
 
 Excel / CSV – Data storage
 
-🚀 Why This Project
+#🚀 Why This Project
 
 This project helps me demonstrate:
 
